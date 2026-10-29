@@ -43,7 +43,7 @@ Where are loan delinquency and defaults concentrated, which customer, loan and a
 - **Underwriting:** Policy V2 shows a lower default rate than V1 (3.60% vs 4.36%).
 - **Cohorts:** The 2025 cohort has lower default (3.75% vs 4.33%) and write-off (1.13% vs 1.30%) rates than 2024, though newer loans have had less time to default.
 - **Credit loss:** The monthly trend rises for most of the period, then dips in the latest month. That needs a data-completeness check.
-- **Data-quality flag:** The low-risk band showed a higher default rate than the high-risk bands, so risk-band and `risk_score` reliability is treated as unresolved.
+- **Data-quality flag:** The low-risk score showed a higher default rate than the high-risk score, so `risk_score` reliability is treated as unresolved.
 
 > **Note:** This project uses synthetic data. Findings show segments worth investigating, not causes.
 
