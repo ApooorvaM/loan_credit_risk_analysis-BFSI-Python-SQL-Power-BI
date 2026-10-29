@@ -6,9 +6,7 @@
 
 An end-to-end lending risk analytics project: **Python/Pandas** for cleaning, **SQL Server** for analysis and **Power BI** for an interactive dashboard, built on a synthetic multi-table loan dataset.
 
-<img width="446" height="249" alt="Screenshot 2026-10-29 140555" src="https://github.com/user-attachments/assets/968785e9-42d4-4f6c-a19e-5d785e231b44" />
-
-<img width="446" height="249" alt="Screenshot 2026-10-29 140625" src="https://github.com/user-attachments/assets/3026f7c7-3c2e-4cbd-b226-398d242702d9" />
+<img width="446" height="249" alt="Screenshot 2026-10-29 140555" src="https://github.com/user-attachments/assets/968785e9-42d4-4f6c-a19e-5d785e231b44" /> <img width="446" height="249" alt="Screenshot 2026-10-29 140625" src="https://github.com/user-attachments/assets/3026f7c7-3c2e-4cbd-b226-398d242702d9" />
 
 
 
