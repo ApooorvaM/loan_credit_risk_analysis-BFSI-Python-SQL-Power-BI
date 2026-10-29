@@ -6,8 +6,12 @@
 
 An end-to-end lending risk analytics project: **Python/Pandas** for cleaning, **SQL Server** for analysis and **Power BI** for an interactive dashboard, built on a synthetic multi-table loan dataset.
 
-![Loan Portfolio Overview](images/dashboard_loan_portfolio_overview.png)
-![Delinquency and Default Drivers](images/dashboard_delinquency_default_drivers.png)
+<img width="446" height="249" alt="Screenshot 2026-10-29 140555" src="https://github.com/user-attachments/assets/968785e9-42d4-4f6c-a19e-5d785e231b44" />
+
+<img width="446" height="249" alt="Screenshot 2026-10-29 140625" src="https://github.com/user-attachments/assets/3026f7c7-3c2e-4cbd-b226-398d242702d9" />
+
+
+
 
 ## Table of Contents
 
@@ -61,6 +65,7 @@ Synthetic lending data in 8 CSV tables: `applications`, `loans`, `customers`, `c
 
 Loans can have many repayment, collection or risk records, so every metric uses **distinct loan IDs** to avoid inflated counts from one-to-many joins.
 
+Dataset: https://github.com/Mohamedsul/namaa-finance-synthetic-dataset/tree/main/data
 [Back to top](#lending-guard-credit-portfolio-quality--loss-intelligence)
 
 ## Approach
@@ -88,7 +93,13 @@ Repayment and collection records disagree in places. Rather than force a reconci
 
 **Page 1: Loan Portfolio Overview.** KPI cards, loan status distribution, applications vs. loans over time, and delinquent/default/written-off trends.
 
+<img width="446" height="249" alt="Screenshot 2026-10-29 140555" src="https://github.com/user-attachments/assets/d76e5744-05e0-452a-a916-807b76d9d3b1" />
+
+
 **Page 2: Delinquency and Default Drivers.** Risk by customer characteristics, loan type or policy, monthly credit loss trend, and risk by acquisition channel.
+
+<img width="446" height="249" alt="Screenshot 2026-10-29 140625" src="https://github.com/user-attachments/assets/36779a9c-1197-4506-9d8a-f125ed1cc733" />
+
 
 [Back to top](#lending-guard-credit-portfolio-quality--loss-intelligence)
 
@@ -142,6 +153,6 @@ Full methodology: [detailed project report](docs/detailed_project_report.pdf)
 
 **Apoorva Maheshwari**
 
-[LinkedIn](https://www.linkedin.com/in/apoorva-maheshwari-05b1b2b8/) | [GitHub](https://github.com/<your-username>)
+[LinkedIn](https://www.linkedin.com/in/apoorva-maheshwari-05b1b2b8/) | [GitHub](https://github.com/ApoorvaM)
 
 [Back to top](#lending-guard-credit-portfolio-quality--loss-intelligence)
